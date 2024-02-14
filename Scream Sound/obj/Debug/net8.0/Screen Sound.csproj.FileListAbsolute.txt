@@ -1,0 +1,14 @@
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\bin\Debug\net8.0\Screen Sound.exe
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\bin\Debug\net8.0\Screen Sound.deps.json
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\bin\Debug\net8.0\Screen Sound.runtimeconfig.json
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\bin\Debug\net8.0\Screen Sound.dll
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\bin\Debug\net8.0\Screen Sound.pdb
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\obj\Debug\net8.0\Screen Sound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\obj\Debug\net8.0\Screen Sound.AssemblyInfoInputs.cache
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\obj\Debug\net8.0\Screen Sound.AssemblyInfo.cs
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\obj\Debug\net8.0\Screen Sound.csproj.CoreCompileInputs.cache
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\obj\Debug\net8.0\Screen Sound.dll
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\obj\Debug\net8.0\refint\Screen Sound.dll
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\obj\Debug\net8.0\Screen Sound.pdb
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\obj\Debug\net8.0\Screen Sound.genruntimeconfig.cache
+C:\Users\Alfa User\source\repos\Scream Sound\Scream Sound\obj\Debug\net8.0\ref\Screen Sound.dll
