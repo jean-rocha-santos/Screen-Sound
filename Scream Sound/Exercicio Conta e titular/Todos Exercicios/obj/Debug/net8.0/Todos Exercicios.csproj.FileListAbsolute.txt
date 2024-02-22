@@ -1,0 +1,14 @@
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\bin\Debug\net8.0\Todos Exercicios.exe
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\bin\Debug\net8.0\Todos Exercicios.deps.json
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\bin\Debug\net8.0\Todos Exercicios.runtimeconfig.json
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\bin\Debug\net8.0\Todos Exercicios.dll
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\bin\Debug\net8.0\Todos Exercicios.pdb
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\obj\Debug\net8.0\Todos Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\obj\Debug\net8.0\Todos Exercicios.AssemblyInfoInputs.cache
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\obj\Debug\net8.0\Todos Exercicios.AssemblyInfo.cs
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\obj\Debug\net8.0\Todos Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\obj\Debug\net8.0\Todos Exercicios.dll
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\obj\Debug\net8.0\refint\Todos Exercicios.dll
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\obj\Debug\net8.0\Todos Exercicios.pdb
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\obj\Debug\net8.0\Todos Exercicios.genruntimeconfig.cache
+C:\Users\Alfa User\source\repos\Screen Sound\Todos Exercicios\Todos Exercicios\obj\Debug\net8.0\ref\Todos Exercicios.dll
